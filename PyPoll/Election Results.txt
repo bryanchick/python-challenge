@@ -1,1 +1,10 @@
-The Election Results//Correy; Percent: 40.0; Votes Received: 1408400Khan; Percent: 126.0; Votes Received: 4436462Li; Percent: 28.0; Votes Received: 985880O'Tooley; Percent: 6.0; Votes Received: 211260//Total votes are: 3521000//And the Winner is Khan
+The Election Results
+:::::::::::::::::::::::::::::
+Correy; Percent: 20.0; Votes Received: 704200
+Khan; Percent: 63.0; Votes Received: 2218231
+Li; Percent: 14.0; Votes Received: 492940
+O'Tooley; Percent: 3.0; Votes Received: 105630
+::::::::::::::::::::::::::::
+Total votes are: 3521000
+::::::::::::::::::::::::::::
+And the Winner is Khan
